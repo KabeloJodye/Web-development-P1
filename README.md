@@ -24,3 +24,32 @@ This project involves designing and developing a website for KICKS27, a local ar
 - Our Products
 - Order Enquiry
 - Contact Us
+Part 2
+
+# KICKS27 Sneaker Store Website
+
+**Student Name:** Kabelo Sebe
+**Student Number:** ST10442764  
+**Course:** WEDE5020
+
+## Project Overview
+This project involves designing and developing a website for KICKS27, a local sneaker retail store planning to go global. The website showcases their products and allows customers to contact them.
+
+## Website Goals
+- Increase online visibility and global reach
+- Showcase sneaker products with images
+- Allow customers to submit enquiries via contact form
+- Provide company information
+
+## Key Features
+- Responsive navigation menu
+- Product gallery with images
+- Contact form
+- About us section with store image
+- Mobile-responsive design
+
+## Sitemap
+- Home (with hero image)
+- Products (with product images)
+- About Us (with store image)
+- Contact Us
